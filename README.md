@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+</br>
 
-<!--
-**msaiduslu/msaiduslu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👷🏻‍♀️👋🏻 Hi there, I'm Muhammed Said USLU
 
-Here are some ideas to get you started:
+<font color="pink"> 🐱‍🏍 I'm Frontend Developer </font>
+</br>
+<font color="pink">🎆 I like to spending time with my family. </font>
+</br>
+<font color="pink">☕ Coffee is how I keep up with code</font>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📬 Connect with me:
+
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-said-uslu-7b87801b/)
+[![E-Mail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:msaiduslu@gmail.com)
+[👉 Here is my Resume](https://github.com/msaiduslu/msaiduslu/blob/main/Muhammed%20USLU%20Resume.docx)
