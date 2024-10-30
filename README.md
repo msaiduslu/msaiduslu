@@ -33,8 +33,8 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="
-  https://github.com/msaiduslu/msaiduslu/blob/main/code.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/msaiduslu/msaiduslu/blob/main/code.gif">
+  
 
 <br><br>
 
