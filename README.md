@@ -50,8 +50,10 @@
 
 ☕ Coffee is how I keep up with code
 
+
+<p align="center">📬 Connect with me:</p>
+
 <div align="center">
-<p>📬 Connect with me:</p>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msaiduslu/)
 [![E-Mail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:msaiduslu@gmail.com)
